@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "api/backend.js": {
+            "runtime": "nodejs18.x"
+        }
+    }
+}
