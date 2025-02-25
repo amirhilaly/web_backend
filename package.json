@@ -1,9 +1,0 @@
-{
-  "engines": {
-    "node": "18.x"
-  },
-  "dependencies": {
-    "vercel": "^41.2.1",
-    "sqlite3": "^5.1.6"
-  }
-}
